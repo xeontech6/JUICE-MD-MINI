@@ -20,7 +20,7 @@ const settings = {
   // 📝 Meta Information
   description: '💬 A fun, powerful & stylish WhatsApp MD bot created with ❤️ by Hideout Aura.',
   version: '2.0.0',
-updateZipUrl: "https://github.com/minatonamikaze359/Minato-MD",
+updateZipUrl: "https://github.com/xeontech6/JUICE-MD-MINI/tree/main",
 
 };
 
